@@ -135,6 +135,10 @@ ul li a{
 .users{
     margin: 0px 141px 159px;
     text-align: center;
+    background-color: rgba(78, 71, 255, 0.1); /* হালকা নীল */
+    padding: 100px 0;
+    border-radius: 20px;
+    color: #252432;
 }
 
 .section-user{
