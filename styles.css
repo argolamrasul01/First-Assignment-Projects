@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .text-primary {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
@@ -44,6 +50,7 @@ nav{
     align-items: center;
     justify-content: space-between;
     margin: 50px 150px;
+    cursor: pointer;
 }
 
 .nav-title{
@@ -57,5 +64,17 @@ ul li{
 
 ul li a{
     text-decoration: none;
+}
+
+/* banner style */
+.banner{
+    text-align: center;
+    margin: 158px 150px;
+}
+
+.banner h6{
+    font-weight: bold;
+    font-size: 65px;
+    margin-bottom:37px;
 }
 
