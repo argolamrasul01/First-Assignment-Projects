@@ -44,6 +44,9 @@
     color: #B3B3B3;
 }
 
+.break{
+    margin-bottom: 19px;
+}
 .btn-primary{
     background-color: #4E47FF;
     font-weight: bold;
@@ -204,3 +207,27 @@ ul li a{
     flex-wrap: wrap; 
 }
 
+/* Contact form */
+footer .contact-form{
+    padding: 92px 150px;
+    display: flex;
+    gap: 115px;
+
+}
+
+form input:not([type="submit"]),
+form textarea {
+    height: 70px;
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    padding: 20px 32px;
+    display: block;
+    font-size: 20px;
+}
+
+.contact-head{
+    font-weight: bold;
+    font-size: 97px;
+    max-width: 528px;
+}
