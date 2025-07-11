@@ -25,7 +25,9 @@
     color: #252432;
 }
 
-
+.logo{
+    color: #FFB805;
+}
 .col-sub-1{
     color: #252432;
     opacity: 50%;
@@ -230,4 +232,38 @@ form textarea {
     font-weight: bold;
     font-size: 97px;
     max-width: 528px;
+}
+
+
+/* Main footer */
+.main-footer{
+    max-width: 531px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.logo-footer{
+    margin-bottom: 8px;
+}
+
+.sub-link{
+    margin-top: 20px;
+}
+
+.sub-link a{
+    margin: 0px 10px;
+    text-decoration: none;
+    font-weight: 500;
+    color: #8987A1;
+}
+
+.sub-link a:hover {
+    color: #4E47FF;
+}
+
+.footer-paragraph{
+    text-align: center;
+    color: #8987A1;
+    
 }
