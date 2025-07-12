@@ -101,6 +101,7 @@ ul li a{
     margin-bottom:37px;
 }
 
+
 /* Action Style */
 
 .see-it-action{
@@ -135,7 +136,7 @@ ul li a{
 .users{
     margin: 0px 141px 159px;
     text-align: center;
-    background-color: rgba(78, 71, 255, 0.1); /* হালকা নীল */
+    background-color: rgba(78, 71, 255, 0.1); 
     padding: 100px 0;
     border-radius: 20px;
     color: #252432;
